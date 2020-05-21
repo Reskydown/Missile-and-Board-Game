@@ -1,0 +1,7 @@
+single
+single
+splash
+v-line
+v-line
+h-line
+splash
